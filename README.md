@@ -1,122 +1,71 @@
-<!-- ======= PORTADA PROFESIONAL ======= -->
+# Hola, soy Dennis Mugarte 👋
 
-<h1 align="center">👋 Hola, soy <strong>Dennis Mugarte</strong></h1>
-<h3 align="center">Desarrollador Full Stack | Web & Móvil (Flutter, Node.js)</h3>
+### Desarrollador Full Stack | Web y Móvil (Flutter, Node.js)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D3nn1S-Mugart3&label=Visitas%20al%20perfil&color=brightgreen&style=for-the-badge" />
-</p>
+Soy un **Desarrollador Web y Móvil** apasionado por crear soluciones completas, desde la **lógica del servidor (Backend)** hasta la **experiencia del usuario (Frontend)**. Actualmente, en formación como Ingeniero en Desarrollo de Software Multiplataforma.
 
----
-
-<!-- ======= SOBRE MÍ ======= -->
-
-## 👨‍💻 Sobre mí
-
-Soy un **Desarrollador Web y Móvil** apasionado por construir soluciones completas, desde la **arquitectura backend** hasta la **experiencia de usuario frontend**.
-
-Actualmente me encuentro en formación como **Ingeniero en Desarrollo de Software Multiplataforma**, enfocado en crear aplicaciones modernas, escalables y de alto rendimiento.
+Busco activamente integrar mis conocimientos técnicos y mi enfoque en el desarrollo multiplataforma para aportar valor a un equipo de trabajo innovador.
 
 ---
 
-<!-- ======= CONTACTO ======= -->
+## 🛠️ Stack y Conocimientos Técnicos
 
-## 🌐 Connect with me
+Aquí se resumen las tecnologías y herramientas con las que trabajo:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tu-linkedin-aquí" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dennis.mugarte05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ======= TECNOLOGÍAS Y HERRAMIENTAS ======= -->
-
-## 🛠️ Languages and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+| Categoría           | Tecnologías y Herramientas                                           |
+| :------------------ | :------------------------------------------------------------------- |
+| **Lenguajes**       | JavaScript (ES6+), C#, PHP, HTML5, CSS3, SQL                         |
+| **Frameworks/Libs** | **Node.js (Express)**, **React**, **Flutter**, Laravel, ASP.NET Core |
+| **Bases de Datos**  | **MySQL**, **SQLite3**                                               |
+| **Arquitectura**    | Desarrollo de aplicaciones **RESTful** y **GraphQL**                 |
+| **Herramientas**    | Git, **GitHub**, VS Code, Android Studio, Postman, XAMPP             |
+| **Competencias**    | Desarrollo Full Stack (Web y Móvil), Control de Versiones con Git    |
 
 ---
 
-<!-- ======= PROYECTOS DESTACADOS EN TARJETAS ======= -->
+## 🚀 Proyectos Destacados y Experiencia
 
-## 🚀 Proyectos Destacados
+Los siguientes proyectos demuestran mi capacidad para el desarrollo Full Stack y la colaboración en equipo.
 
-### 📌 Digital Event Hub (Web & Móvil)
+### 1. Digital Event Hub (Web & Móvil)
 
-<div align="left">
+- **Descripción:** Aplicación web y móvil completa para la creación y gestión de eventos, inspirada en plataformas de venta en línea.
+- **Mi Rol:** Colaborador Full Stack en el desarrollo de la API y la aplicación móvil.
+- **Tecnologías Clave:** **Node.js**, **Express**, **MySQL**, **Flutter**, **GitHub** para coordinación.
+- **Logros:**
+  - Diseño e implementación del **backend con API REST** para manejo de eventos, usuarios y códigos QR.
+  - Desarrollo de la **aplicación móvil en Flutter** consumiendo la API para mostrar datos en tiempo real.
+  - **Integración exitosa** y consistente entre la aplicación web y móvil.
+- **Link del Proyecto:** [https://digital-event-hub-web.vercel.app/landing-page/home.html](https://digital-event-hub-web.vercel.app/landing-page/home.html)
 
-🔹 **Rol:** Colaborador Full Stack  
-🔹 **Tecnologías:** Node.js, Express, MySQL, Flutter
+### 2. Aplicación Hotel & Restaurante - Santa María
 
-**Logros:**  
-✔ API REST completa para manejo de eventos y usuarios  
-✔ App móvil Flutter consumiendo datos en tiempo real  
-✔ Integración entre plataforma web y móvil
+- **Descripción:** Aplicación web para el Hotel Santa María, diseñada para mostrar habitaciones, menú y permitir reservas en línea.
+- **Mi Rol:** Desarrollador Full Stack.
+- **Tecnologías Clave:** **React (Frontend)**, **Node.js / Express (Backend)**, **SQLite3**, Vite.
+- **Logros:**
+  - Desarrollo de una interfaz **moderna y responsiva** con React.
+  - Diseño y programación del backend con Node.js para la gestión de datos.
+  - Implementación de una base de datos local funcional con SQLite3.
 
-🔗 **Demo Web:**  
-https://digital-event-hub-web.vercel.app/landing-page/home.html
+### 3. Clon de Crunchyroll (Proyecto Personal)
 
-</div>
-
----
-
-### 📌 Aplicación Hotel & Restaurante — Santa María
-
-<div align="left">
-
-🔹 **Rol:** Full Stack Developer  
-🔹 **Tecnologías:** React, Node.js, SQLite3, Vite
-
-**Logros:**  
-✔ UI moderna y responsiva  
-✔ Backend funcional para reservas y contenido  
-✔ Arquitectura limpia y modular
-
-</div>
+- **Descripción:** Aplicación móvil personal desarrollada en Flutter, inspirada en la plataforma de streaming Crunchyroll.
+- **Mi Rol:** Desarrollador de principio a fin.
+- **Tecnologías Clave:** **Flutter**, **Firebase (Auth, Messaging)**, MyAnimeList API, `video_player`.
+- **Logros:**
+  - Integración de la API de **MyAnimeList** para listados de anime por ranking.
+  - Manejo de **autenticación** y **notificaciones** con Firebase.
+  - Diseño responsivo y aplicación de **arquitectura limpia** para un código modular.
 
 ---
 
-### 📌 Clon de Crunchyroll (Flutter)
+## 🌐 Contáctame
 
-<div align="left">
+| Contacto             | Información                                         |
+| :------------------- | :-------------------------------------------------- |
+| **Correo**           | dennis.mugarte05@gmail.com                          |
+| **Teléfono**         | 9971136764                                          |
+| **Perfil de GitHub** | [D3nn1S-Mugart3](https://github.com/D3nn1S-Mugart3) |
 
-🔹 **Rol:** Desarrollador completo  
-🔹 **Tecnologías:** Flutter, Firebase Auth, MyAnimeList API
-
-**Logros:**  
-✔ Integración API MyAnimeList  
-✔ Notificaciones y autenticación con Firebase  
-✔ UI inspirada en plataforma real
-
-</div>
-
----
-
-<!-- ======= ESTADÍSTICAS PRO ======= -->
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3nn1S-Mugart3&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3nn1S-Mugart3&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
+<br>
